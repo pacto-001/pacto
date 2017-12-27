@@ -6,5 +6,9 @@ public class Main {
 		System.out.println("Oi Mundo!");
 
 	}
+	
+	public static void init() {
+		System.out.println("Método init!!");
+	}
 
 }
